@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StringProblems
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StringProblems\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=y
+comment1.target=int\ sampleMethod(int)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment2.params=s
+comment2.target=java.lang.String\ removeDuplicates(java.lang.String)
+comment2.text=\ \ \ \ \ \ \ \ \ Q-1\r\n\ \ \ \ \ \ \ \ \ \ aabbbbbabbbbccccddd\r\n\ \ \ \ \ \ \ \ \ \ ababcd\r\n
+comment3.params=s
+comment3.target=int\ countWords(java.lang.String)
+comment3.text=\ \ \ \ \ \ \ \ \ Q-2\r\n\ \ \ \ \ \ \ \ \ \ counts\ how\ many\ words\ there\ are\ in\ the\ parameter\ string\ s\ except\ wgite\ space\r\n\ \ \ \ \ \ \ \ \ \ and\ make\ sure\ 1'st\=0th\ char\ or\ 5-1\ th\ car\ is\ not\ white\ space\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n
+comment4.params=s
+comment4.target=java.lang.String\ convertToTitleCase(java.lang.String)
+comment4.text=\ \ \ \ \ \ \ \ \ Q-3\r\n\ \ \ \ \ \ \ \ \ \ first\ letter\ of\ each\ word\ is\ converted\ to\ title\ case\r\n\ \ \ \ \ \ \ \ \ \ \r\n
+comment5.params=text
+comment5.target=java.lang.String\ uniqueCharacters(java.lang.String)
+comment5.text=\ \ \ \ \ \ \ \ \ Q-4\r\n\ \ \ \ \ \ \ \ \ \ Returns\ a\ String\ that\ contains\ each\ character\ that\ occurs\ in\ the\ given\ text,\ \r\n\ \ \ \ \ \ \ \ \ \ ""so\ that\ each\ character\ is\ included\ in\ this\ result\ only\ once.""\r\n\ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ Hello\ there,\ world\!",\r\n\ \ \ \ \ \ \ \ \ \ "Helo\ thr,wd\!"\r\n
+numComments=6

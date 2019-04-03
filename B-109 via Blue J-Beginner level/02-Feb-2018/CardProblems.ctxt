@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CardProblems
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CardProblems\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CardProblems()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CardProblems\r\n
+comment2.params=c
+comment2.target=int\ getRank(char)
+comment3.params=hand
+comment3.target=boolean\ hasFlush(java.lang.String)
+comment4.params=hand
+comment4.target=boolean\ hasFourOfAKind(java.lang.String)
+comment5.params=hand
+comment5.target=boolean\ hasFourCardBadugi(java.lang.String)
+numComments=6

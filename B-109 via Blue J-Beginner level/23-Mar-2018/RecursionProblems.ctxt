@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=RecursionProblems
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RecursionProblems\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=RecursionProblems()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RecursionProblems\r\n
+comment2.params=y
+comment2.target=int\ sampleMethod(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=arr\ start\ end
+comment3.target=boolean\ allEqual(int[],\ int,\ int)
+comment4.params=src\ start\ tgt\ start2\ len
+comment4.target=void\ arraycopy(double[],\ int,\ double[],\ int,\ int)
+comment5.params=arr\ x\ start\ end
+comment5.target=boolean\ linearSearch(int[],\ int,\ int,\ int)
+comment6.params=arr\ start\ end
+comment6.target=void\ reverse(int[],\ int,\ int)
+comment7.params=arr\ start\ end
+comment7.target=void\ parityPartition(int[],\ int,\ int)
+comment8.params=arr\ start\ end
+comment8.target=int\ countRuns(int[],\ int,\ int)
+numComments=9

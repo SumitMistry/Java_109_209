@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ArrayShapeProblems
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ArrayShapeProblems\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ArrayShapeProblems()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArrayShapeProblems\r\n
+comment2.params=y
+comment2.target=int\ sampleMethod(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=a
+comment3.target=int\ countUpsteps(int[])
+comment4.params=a\ b
+comment4.target=boolean\ sameStepShape(int[],\ int[])
+comment5.params=a
+comment5.target=boolean\ isSawtooth(int[])
+comment6.params=a
+comment6.target=boolean\ isMountain(int[])
+numComments=7
